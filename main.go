@@ -23,7 +23,7 @@ func main() {
 }
 
 // *****************************************************************************
-// Application Settings
+// Settings for Application
 // *****************************************************************************
 
 // configuration contains the application settings
