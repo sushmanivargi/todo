@@ -1,0 +1,6 @@
+package: .
+import:
+- package: app/route
+- package: app/shared/database
+- package: app/shared/jsonconfig
+- package: app/shared/server

@@ -1,0 +1,21 @@
+{
+	"Database": {
+	"MySQL": {
+		"Username": "root",
+		"Password": "",
+		"Name": "hydra_dev",
+		"Hostname": "127.0.0.1",
+		"Port": 3306,
+		"Parameter": "?parseTime=true&charset=utf8"
+	}
+   },
+	"Server": {
+		"Hostname": "",
+		"UseHTTP": true,
+		"UseHTTPS": false,
+		"HTTPPort": 8080,
+		"HTTPSPort": 443,
+		"CertFile": "tls/server.crt",
+		"KeyFile": "tls/server.key"
+	}
+}
